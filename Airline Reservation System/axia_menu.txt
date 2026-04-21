@@ -1,0 +1,15 @@
+No.
+food/water
+price
+1
+Hamburger
+5.00
+2
+chickenchop
+7.00
+3
+sprite
+1.00
+4
+revive
+2.00
